@@ -6,7 +6,7 @@
 import turtle
 
 
-while count:
+while True:
     my_turtle = turtle.Turtle()   # create a turtle
     my_turtle.color("blue")      # set the color
     my_turtle.speed(1)
